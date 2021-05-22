@@ -1,0 +1,1 @@
+DROP TABLE covid_observations
