@@ -1,1 +1,1 @@
-DROP TABLE covid_observations
+DROP TABLE IF EXISTS covid_observations
